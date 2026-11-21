@@ -1,0 +1,503 @@
+Student_ID,Age,Gender,Parental_Education,Study_Hours_Per_Week,Attendance_Rate,Previous_Exam_Score,Assignments_Completed,Extracurricular_Activities,Internet_Access,Passed_Exam
+STU_1000,24,Male,High School,14.5,75.0,75.8,4,Yes,Yes,Fail
+STU_1001,21,Male,Master,23.6,89.1,69.3,10,Yes,No,Pass
+STU_1002,22,Female,Bachelor,10.9,100.0,65.2,6,No,Yes,Fail
+STU_1003,24,Male,Associate Degree,25.8,86.7,65.9,9,Yes,Yes,Pass
+STU_1004,20,Male,High School,14.8,67.6,65.3,6,Yes,Yes,Fail
+STU_1005,25,Female,Bachelor,6.4,87.3,83.9,9,Yes,Yes,Pass
+STU_1006,22,Female,Bachelor,15.8,96.4,76.3,5,Yes,Yes,Pass
+STU_1007,22,Female,Associate Degree,10.9,74.7,30.0,4,No,Yes,Fail
+STU_1008,24,Female,Master,20.0,80.4,77.2,4,No,No,Pass
+STU_1009,19,Male,Bachelor,11.1,82.2,70.7,8,No,Yes,Pass
+STU_1010,20,Female,High School,12.3,72.6,67.7,9,Yes,Yes,Pass
+STU_1011,24,Other,Associate Degree,3.7,89.8,62.6,6,No,No,Fail
+STU_1012,20,Male,High School,12.3,80.5,83.7,4,No,Yes,Pass
+STU_1013,20,Female,Bachelor,2.0,87.0,81.3,10,No,Yes,Pass
+STU_1014,25,Female,High School,5.5,71.4,57.2,4,Yes,Yes,Pass
+STU_1015,22,Female,Bachelor,19.6,76.8,73.7,7,Yes,Yes,Pass
+STU_1016,21,Female,Bachelor,19.7,90.7,54.4,7,No,Yes,Pass
+STU_1017,25,Female,Master,17.6,77.5,48.7,4,No,Yes,Pass
+STU_1018,25,Male,Associate Degree,9.2,100.0,,9,Yes,Yes,Pass
+STU_1019,20,Male,Master,14.7,77.2,80.1,8,Yes,Yes,Pass
+STU_1020,23,Female,High School,15.0,84.7,81.3,4,Yes,Yes,Fail
+STU_1021,22,Female,Master,8.0,93.2,75.2,5,No,Yes,Pass
+STU_1022,19,Female,High School,24.0,65.0,78.2,6,Yes,Yes,Fail
+STU_1023,25,Female,Associate Degree,20.3,60.9,75.2,8,No,Yes,Pass
+STU_1024,21,Female,Bachelor,13.7,63.7,59.0,5,Yes,Yes,Fail
+STU_1025,23,Female,High School,15.2,97.2,74.0,8,No,Yes,Pass
+STU_1026,23,Female,High School,16.3,75.4,79.2,5,No,Yes,Pass
+STU_1027,19,Female,Bachelor,2.7,100.0,78.6,6,Yes,No,Pass
+STU_1028,25,Female,Bachelor,13.5,75.2,84.6,6,No,Yes,Pass
+STU_1029,21,Female,Bachelor,10.9,84.2,77.9,7,Yes,Yes,Pass
+STU_1030,22,Female,Bachelor,9.0,100.0,72.9,9,No,Yes,Pass
+STU_1031,18,Male,Associate Degree,13.3,100.0,83.0,5,No,Yes,Pass
+STU_1032,21,Male,Associate Degree,25.8,100.0,67.6,7,Yes,Yes,Fail
+STU_1033,19,Male,Associate Degree,18.8,96.5,55.7,5,No,No,Pass
+STU_1034,23,Female,High School,11.6,94.3,65.7,7,No,Yes,Fail
+STU_1035,22,Male,Master,18.4,89.1,57.6,6,Yes,Yes,Fail
+STU_1036,21,Male,Bachelor,23.4,91.3,58.5,8,No,Yes,Fail
+STU_1037,18,Female,Associate Degree,20.5,75.4,66.0,10,No,Yes,Pass
+STU_1038,18,Male,Associate Degree,15.4,72.2,56.9,7,No,Yes,Pass
+STU_1039,20,Female,Master,11.1,82.0,63.7,5,Yes,No,Pass
+STU_1040,20,Male,High School,19.2,80.0,41.5,5,Yes,Yes,Fail
+STU_1041,24,Male,Bachelor,17.4,76.6,71.0,10,Yes,Yes,Pass
+STU_1042,19,Female,Associate Degree,20.4,90.4,68.0,9,No,Yes,Pass
+STU_1043,25,Male,Bachelor,18.8,93.5,56.6,6,Yes,Yes,Fail
+STU_1044,21,Male,High School,21.3,83.1,77.2,5,No,Yes,Fail
+STU_1045,21,Female,Master,11.8,99.7,81.1,4,Yes,Yes,Pass
+STU_1046,25,Female,Master,22.9,68.3,45.5,8,No,Yes,Fail
+STU_1047,24,Male,Bachelor,16.2,79.7,57.3,7,Yes,Yes,Fail
+STU_1048,23,Female,Bachelor,27.5,73.4,57.2,9,Yes,Yes,Pass
+STU_1049,23,Male,Master,10.9,59.6,54.8,10,Yes,Yes,Fail
+STU_1050,24,Male,Bachelor,25.4,81.0,79.6,8,Yes,Yes,Pass
+STU_1051,23,Female,High School,16.2,80.5,65.3,6,No,Yes,Fail
+STU_1052,20,Female,Bachelor,11.1,100.0,,9,No,Yes,Pass
+STU_1053,21,Female,Bachelor,12.1,89.6,39.9,7,No,Yes,Fail
+STU_1054,24,Female,Associate Degree,13.1,69.7,76.9,7,No,Yes,Fail
+STU_1055,21,Other,Bachelor,17.5,100.0,50.7,10,No,Yes,Pass
+STU_1056,25,Female,Master,18.1,96.7,68.8,4,No,Yes,Fail
+STU_1057,18,Male,Master,11.6,89.0,71.9,10,No,Yes,Pass
+STU_1058,20,Female,Associate Degree,14.9,79.3,87.0,6,No,Yes,Fail
+STU_1059,22,Male,High School,27.9,70.5,49.7,9,Yes,Yes,Fail
+STU_1060,20,Male,Doctorate,25.4,77.5,30.0,9,No,Yes,Fail
+STU_1061,24,Male,Master,17.6,95.1,70.6,5,Yes,Yes,Pass
+STU_1062,22,Male,High School,15.2,100.0,93.2,4,No,Yes,Pass
+STU_1063,18,Other,Master,15.7,100.0,85.3,4,No,Yes,Fail
+STU_1064,24,Female,Master,18.7,76.1,70.9,9,Yes,Yes,Pass
+STU_1065,19,Female,Associate Degree,8.9,68.6,61.1,9,Yes,Yes,Pass
+STU_1066,21,Male,Bachelor,13.5,83.7,79.3,8,No,Yes,Pass
+STU_1067,18,Male,Associate Degree,5.0,60.8,54.4,8,No,Yes,Fail
+STU_1068,21,Male,High School,17.4,85.9,74.7,8,Yes,Yes,Pass
+STU_1069,23,Male,Associate Degree,18.9,80.2,75.1,4,No,Yes,Pass
+STU_1070,19,Female,Master,12.1,76.4,,5,No,Yes,Fail
+STU_1071,19,Female,High School,24.4,62.9,99.0,7,Yes,Yes,Pass
+STU_1072,18,Female,Associate Degree,7.6,88.2,73.5,8,No,Yes,Pass
+STU_1073,19,Male,Associate Degree,6.2,75.6,60.9,5,No,Yes,Fail
+STU_1074,22,Female,Associate Degree,16.3,68.0,67.6,10,Yes,Yes,Pass
+STU_1075,19,Female,Master,21.3,47.5,43.2,6,No,Yes,Fail
+STU_1076,21,Female,Associate Degree,25.1,81.7,58.3,8,No,Yes,Pass
+STU_1077,21,Female,Associate Degree,12.2,100.0,62.3,10,Yes,Yes,Pass
+STU_1078,24,Male,Bachelor,21.5,100.0,60.7,7,Yes,No,Pass
+STU_1079,21,Male,Associate Degree,14.8,76.5,70.1,6,Yes,Yes,Fail
+STU_1080,24,Male,High School,14.0,74.8,56.5,6,No,Yes,Fail
+STU_1081,21,Female,Associate Degree,20.3,87.6,83.7,7,No,Yes,Pass
+STU_1082,22,Male,High School,18.9,70.0,68.0,8,No,Yes,Fail
+STU_1083,25,Male,High School,5.5,85.6,67.9,4,No,Yes,Fail
+STU_1084,24,Male,Associate Degree,23.9,91.2,63.4,7,No,Yes,Fail
+STU_1085,20,Male,Associate Degree,,96.7,70.2,7,Yes,Yes,Pass
+STU_1086,23,Female,Master,11.2,80.8,79.6,7,Yes,Yes,Pass
+STU_1087,18,Female,Associate Degree,17.4,79.6,55.9,6,Yes,Yes,Fail
+STU_1088,21,Male,Bachelor,18.0,71.5,58.8,5,Yes,Yes,Fail
+STU_1089,19,Male,Bachelor,,72.1,63.7,10,No,Yes,Fail
+STU_1090,25,Female,High School,11.7,79.3,49.2,4,No,No,Fail
+STU_1091,21,Male,Bachelor,11.0,86.4,56.5,8,Yes,Yes,Pass
+STU_1092,19,Male,High School,14.8,93.0,61.3,8,No,Yes,Pass
+STU_1093,23,Male,Doctorate,22.0,72.4,80.2,10,No,Yes,Pass
+STU_1094,23,Male,High School,18.3,99.9,71.7,5,Yes,Yes,Pass
+STU_1095,23,Female,Associate Degree,12.8,78.7,70.7,7,Yes,Yes,Pass
+STU_1096,19,Female,High School,19.6,81.7,79.9,4,Yes,Yes,Fail
+STU_1097,21,Male,Doctorate,2.0,73.0,66.1,8,Yes,Yes,Pass
+STU_1098,23,Male,Associate Degree,21.9,52.9,73.5,10,No,Yes,Pass
+STU_1099,22,Female,Bachelor,4.6,92.6,66.6,9,Yes,Yes,Fail
+STU_1100,24,Female,High School,12.8,90.8,71.7,10,Yes,Yes,Pass
+STU_1101,19,Female,Bachelor,8.3,78.6,59.8,8,Yes,Yes,Fail
+STU_1102,19,Female,High School,7.2,82.8,33.9,7,No,Yes,Fail
+STU_1103,21,Male,Master,22.0,88.2,66.1,9,Yes,Yes,Pass
+STU_1104,19,Male,High School,12.2,63.2,87.9,5,Yes,Yes,Fail
+STU_1105,19,Female,High School,17.1,75.7,81.0,4,Yes,Yes,Fail
+STU_1106,23,Male,High School,14.7,91.5,81.5,5,Yes,Yes,Pass
+STU_1107,21,Female,Associate Degree,17.9,66.9,85.3,5,Yes,No,Pass
+STU_1108,23,Female,Bachelor,15.5,85.5,69.2,10,No,Yes,Pass
+STU_1109,24,Female,,7.3,65.7,70.8,4,Yes,Yes,Fail
+STU_1110,25,Male,Bachelor,21.0,87.6,59.4,4,Yes,Yes,Fail
+STU_1111,24,Female,Associate Degree,12.0,81.6,63.6,8,No,Yes,Pass
+STU_1112,25,Male,Associate Degree,5.7,62.6,76.6,8,Yes,Yes,Fail
+STU_1113,23,Female,Associate Degree,12.4,96.0,84.9,4,Yes,Yes,Pass
+STU_1114,24,Female,Associate Degree,24.0,73.2,66.0,9,Yes,Yes,Fail
+STU_1115,21,Male,Bachelor,20.1,72.3,61.7,6,No,Yes,Pass
+STU_1116,18,Other,High School,12.9,84.4,68.0,8,Yes,Yes,Fail
+STU_1117,23,Female,High School,12.9,95.8,76.4,6,No,No,Fail
+STU_1118,25,Male,Master,13.1,69.8,47.8,10,No,Yes,Pass
+STU_1119,22,Male,Master,27.5,82.7,35.9,9,Yes,Yes,Pass
+STU_1120,25,Male,Associate Degree,17.3,87.1,,4,No,Yes,Fail
+STU_1121,22,Male,Associate Degree,,90.3,50.9,9,Yes,Yes,Pass
+STU_1122,19,Male,Bachelor,21.2,84.1,60.9,8,Yes,Yes,Fail
+STU_1123,24,Female,,16.4,77.6,65.9,5,No,Yes,Fail
+STU_1124,22,Male,High School,,72.1,61.7,10,No,Yes,Fail
+STU_1125,25,Male,High School,13.8,83.0,88.3,4,No,Yes,Fail
+STU_1126,19,Female,Bachelor,14.6,69.1,72.6,7,Yes,Yes,Pass
+STU_1127,18,Male,Bachelor,14.8,46.9,72.2,10,Yes,Yes,Pass
+STU_1128,21,Female,High School,19.4,87.2,76.7,6,No,Yes,Pass
+STU_1129,21,Male,High School,15.3,92.8,52.1,9,Yes,Yes,Pass
+STU_1130,21,Male,High School,19.4,53.6,82.5,4,Yes,Yes,Fail
+STU_1131,22,Female,Bachelor,14.5,69.9,,10,Yes,Yes,Pass
+STU_1132,18,Female,High School,15.5,89.4,77.4,9,Yes,Yes,Pass
+STU_1133,22,Female,,3.0,100.0,53.0,4,No,Yes,Fail
+STU_1134,24,Female,Bachelor,20.5,82.2,46.2,8,Yes,Yes,Fail
+STU_1135,22,Female,High School,17.1,73.3,79.5,10,No,Yes,Pass
+STU_1136,18,Male,Bachelor,21.0,79.8,73.3,8,Yes,Yes,Pass
+STU_1137,18,Male,High School,2.0,98.5,55.4,10,No,Yes,Pass
+STU_1138,24,Female,High School,27.5,74.2,55.8,8,Yes,Yes,Pass
+STU_1139,18,Female,High School,14.2,72.4,83.8,9,Yes,Yes,Pass
+STU_1140,25,Other,Bachelor,21.6,76.2,51.3,7,Yes,Yes,Pass
+STU_1141,18,Male,,8.8,70.6,91.0,10,Yes,Yes,Pass
+STU_1142,21,Male,Master,,83.5,55.4,10,Yes,Yes,Pass
+STU_1143,25,Female,Associate Degree,8.7,100.0,76.9,8,No,Yes,Pass
+STU_1144,25,Male,Bachelor,11.3,85.9,63.4,4,No,No,Fail
+STU_1145,24,Female,High School,26.5,79.0,76.4,10,Yes,Yes,Pass
+STU_1146,20,Female,Associate Degree,13.9,78.5,,8,Yes,Yes,Pass
+STU_1147,20,Male,Master,16.3,63.2,65.7,5,Yes,No,Fail
+STU_1148,18,Female,,20.2,92.6,68.6,8,No,No,Pass
+STU_1149,25,Female,High School,18.0,81.1,54.0,9,No,Yes,Fail
+STU_1150,20,Male,High School,15.9,79.8,78.4,7,No,Yes,Pass
+STU_1151,20,Female,High School,17.2,100.0,60.8,5,Yes,Yes,Fail
+STU_1152,18,Female,High School,29.4,85.6,64.8,9,Yes,Yes,Pass
+STU_1153,20,Female,Bachelor,14.7,73.0,54.1,9,Yes,Yes,Fail
+STU_1154,22,Male,Associate Degree,16.2,76.9,32.1,9,No,Yes,Fail
+STU_1155,19,Female,Master,21.3,95.8,65.3,4,No,Yes,Pass
+STU_1156,24,Male,Master,21.6,83.4,99.0,9,No,No,Pass
+STU_1157,19,Male,Associate Degree,22.1,64.7,79.0,4,No,Yes,Pass
+STU_1158,18,Female,Associate Degree,18.8,93.0,67.7,9,Yes,Yes,Pass
+STU_1159,21,Male,Associate Degree,8.1,74.0,64.3,6,No,Yes,Fail
+STU_1160,24,Male,Bachelor,24.8,100.0,68.3,5,Yes,Yes,Pass
+STU_1161,18,Female,Associate Degree,8.1,95.0,75.7,6,No,Yes,Fail
+STU_1162,25,Female,Bachelor,16.8,76.6,51.5,9,Yes,Yes,Pass
+STU_1163,21,Female,Associate Degree,10.5,97.4,83.6,5,Yes,Yes,Pass
+STU_1164,19,Female,Bachelor,14.6,82.8,78.0,5,No,Yes,Fail
+STU_1165,18,Male,Associate Degree,17.0,92.2,78.1,10,No,Yes,Pass
+STU_1166,25,Male,,16.9,87.8,74.1,7,No,No,Fail
+STU_1167,24,Male,Master,17.5,71.8,68.3,6,Yes,Yes,Pass
+STU_1168,24,Female,Bachelor,24.7,74.3,77.4,7,No,Yes,Pass
+STU_1169,23,Female,High School,17.7,94.4,76.3,5,Yes,Yes,Fail
+STU_1170,25,Female,Master,13.5,78.0,63.0,4,No,Yes,Fail
+STU_1171,22,Female,Associate Degree,20.8,77.2,60.0,5,Yes,Yes,Fail
+STU_1172,20,Male,Master,22.1,70.5,69.4,7,No,Yes,Pass
+STU_1173,21,Female,Bachelor,7.6,87.1,89.7,6,No,Yes,Pass
+STU_1174,25,Male,Associate Degree,18.6,100.0,50.7,9,No,Yes,Fail
+STU_1175,23,Female,High School,19.2,69.2,47.5,10,Yes,Yes,Pass
+STU_1176,20,Male,Associate Degree,,82.3,70.3,10,Yes,Yes,Pass
+STU_1177,20,Female,Associate Degree,23.3,98.9,68.7,10,No,Yes,Pass
+STU_1178,18,Male,Bachelor,14.1,81.0,70.4,9,Yes,Yes,Pass
+STU_1179,20,Male,,15.8,87.4,71.4,10,No,Yes,Pass
+STU_1180,22,Male,High School,14.0,69.3,64.9,6,Yes,Yes,Pass
+STU_1181,24,Female,Master,15.1,87.1,88.9,9,Yes,Yes,Pass
+STU_1182,23,Female,Doctorate,8.4,79.8,45.6,10,No,Yes,Pass
+STU_1183,20,Male,Associate Degree,6.4,93.8,56.4,9,No,Yes,Fail
+STU_1184,18,Male,High School,24.6,96.2,,7,No,Yes,Pass
+STU_1185,22,Female,Associate Degree,9.9,100.0,45.0,6,No,Yes,Fail
+STU_1186,19,Male,High School,9.1,89.0,65.5,8,Yes,Yes,Fail
+STU_1187,24,Female,Master,2.1,85.9,91.3,4,No,Yes,Fail
+STU_1188,24,Female,High School,11.2,84.3,68.3,10,Yes,Yes,Pass
+STU_1189,23,Male,Bachelor,7.1,77.8,71.2,4,No,Yes,Fail
+STU_1190,24,Male,Associate Degree,24.9,86.1,50.4,9,No,Yes,Pass
+STU_1191,20,Other,Bachelor,21.1,78.5,59.4,4,Yes,Yes,Fail
+STU_1192,18,Male,Bachelor,10.9,84.0,62.7,6,No,Yes,Pass
+STU_1193,24,Male,Master,28.5,97.8,,6,No,Yes,Pass
+STU_1194,24,Female,High School,20.9,69.9,85.9,5,Yes,Yes,Fail
+STU_1195,19,Female,,13.1,95.7,75.8,10,No,No,Pass
+STU_1196,19,Other,High School,2.0,97.8,52.4,5,Yes,Yes,Fail
+STU_1197,21,Female,Master,28.7,80.6,71.5,4,Yes,Yes,Pass
+STU_1198,22,Male,Master,6.7,56.5,75.0,8,Yes,No,Fail
+STU_1199,20,Male,Bachelor,5.1,74.7,84.0,5,Yes,Yes,Pass
+STU_1200,24,Female,Bachelor,21.1,97.6,90.1,5,No,Yes,Pass
+STU_1201,25,Female,Bachelor,29.6,81.7,53.8,6,No,Yes,Pass
+STU_1202,24,Male,High School,23.3,70.0,56.6,8,No,Yes,Fail
+STU_1203,18,Female,Master,18.4,75.9,50.4,9,No,Yes,Pass
+STU_1204,21,Male,Associate Degree,18.6,92.1,64.7,4,Yes,Yes,Pass
+STU_1205,22,Female,Associate Degree,,88.6,74.5,5,Yes,Yes,Fail
+STU_1206,25,Male,Associate Degree,19.6,79.1,81.8,8,Yes,Yes,Pass
+STU_1207,21,Male,High School,16.7,77.6,66.9,10,Yes,No,Fail
+STU_1208,23,Male,High School,15.6,77.3,63.5,8,No,Yes,Fail
+STU_1209,22,Male,Bachelor,14.6,70.9,70.1,4,Yes,Yes,Fail
+STU_1210,24,Male,High School,10.5,100.0,56.3,8,Yes,Yes,Pass
+STU_1211,24,Female,Bachelor,13.3,78.1,97.3,8,Yes,Yes,Pass
+STU_1212,22,Female,High School,4.8,96.6,45.5,8,No,Yes,Fail
+STU_1213,24,Female,Associate Degree,14.4,100.0,70.6,10,No,No,Pass
+STU_1214,20,Other,Associate Degree,9.1,94.0,96.3,5,No,Yes,Fail
+STU_1215,22,Male,Associate Degree,8.4,76.8,68.1,4,No,Yes,Fail
+STU_1216,21,Male,Bachelor,16.1,86.8,65.3,10,No,Yes,Pass
+STU_1217,22,Female,Associate Degree,23.4,81.7,,8,No,Yes,Pass
+STU_1218,25,Male,Bachelor,20.5,71.2,65.5,8,Yes,No,Fail
+STU_1219,24,Other,Associate Degree,5.6,85.9,87.2,5,No,Yes,Fail
+STU_1220,20,Male,Bachelor,9.1,67.9,37.0,4,No,Yes,Fail
+STU_1221,20,Other,Master,20.6,96.3,89.5,6,No,Yes,Pass
+STU_1222,23,Male,Bachelor,9.1,76.4,48.1,10,No,No,Fail
+STU_1223,21,Female,High School,,84.4,64.3,5,Yes,Yes,Fail
+STU_1224,19,Female,High School,18.3,85.4,62.0,4,No,Yes,Pass
+STU_1225,19,Other,Associate Degree,9.2,78.9,76.2,10,No,Yes,Pass
+STU_1226,22,Male,Bachelor,15.6,89.0,45.6,8,Yes,No,Pass
+STU_1227,23,Female,High School,,76.3,74.5,4,No,Yes,Fail
+STU_1228,18,Other,Associate Degree,11.4,92.5,96.3,4,Yes,Yes,Pass
+STU_1229,22,Female,Bachelor,16.9,65.8,48.9,9,No,Yes,Fail
+STU_1230,23,Female,Associate Degree,5.4,83.5,70.7,4,No,Yes,Pass
+STU_1231,21,Female,Bachelor,17.6,100.0,58.7,6,Yes,Yes,Pass
+STU_1232,21,Male,High School,14.9,70.0,74.0,4,No,Yes,Fail
+STU_1233,21,Female,High School,18.3,73.9,68.3,6,Yes,No,Fail
+STU_1234,21,Female,Bachelor,16.3,88.2,59.0,8,No,Yes,Fail
+STU_1235,21,Female,Associate Degree,23.2,84.2,,6,Yes,No,Pass
+STU_1236,23,Male,Bachelor,15.8,86.2,93.3,10,No,Yes,Pass
+STU_1237,23,Male,Associate Degree,12.4,87.9,65.3,8,Yes,Yes,Pass
+STU_1238,20,Female,High School,15.7,89.6,78.1,8,No,Yes,Pass
+STU_1239,25,Female,Master,18.3,95.3,49.9,6,Yes,Yes,Pass
+STU_1240,19,Male,Bachelor,15.3,86.9,54.6,5,No,No,Fail
+STU_1241,24,Female,Bachelor,15.2,79.1,74.6,7,No,Yes,Pass
+STU_1242,21,Male,Associate Degree,,90.1,88.8,4,No,Yes,Fail
+STU_1243,18,Male,Bachelor,11.0,100.0,73.0,9,No,Yes,Pass
+STU_1244,24,Male,Associate Degree,6.6,80.4,63.6,7,No,Yes,Fail
+STU_1245,23,Male,High School,25.5,70.3,68.0,4,Yes,Yes,Fail
+STU_1246,18,Female,Master,7.5,95.3,50.5,4,Yes,Yes,Pass
+STU_1247,18,Male,,10.8,80.6,76.5,8,Yes,No,Pass
+STU_1248,18,Other,Doctorate,10.7,55.9,80.4,4,No,Yes,Pass
+STU_1249,20,Other,Associate Degree,20.4,92.2,61.7,9,No,Yes,Pass
+STU_1250,23,Female,High School,13.2,75.6,61.4,4,Yes,Yes,Fail
+STU_1251,18,Female,Associate Degree,22.5,80.9,71.7,6,No,No,Fail
+STU_1252,21,Male,Master,11.0,86.0,61.9,7,No,Yes,Pass
+STU_1253,22,Female,Bachelor,16.7,84.3,67.1,6,No,Yes,Fail
+STU_1254,18,Female,,10.0,90.5,97.4,9,Yes,Yes,Pass
+STU_1255,20,Male,Bachelor,27.9,76.8,64.5,4,Yes,Yes,Fail
+STU_1256,24,Female,Bachelor,7.9,88.2,63.0,10,No,Yes,Pass
+STU_1257,23,Female,Master,16.9,78.9,58.9,9,No,Yes,Pass
+STU_1258,25,Female,High School,18.8,90.9,78.4,8,Yes,Yes,Pass
+STU_1259,20,Female,Associate Degree,17.5,89.4,65.5,6,No,Yes,Pass
+STU_1260,18,Female,High School,13.9,70.8,58.9,6,No,Yes,Fail
+STU_1261,23,Male,Doctorate,14.2,95.0,,5,No,Yes,Pass
+STU_1262,22,Female,Master,15.3,75.6,87.9,4,No,Yes,Pass
+STU_1263,18,Female,High School,14.1,91.7,59.6,8,Yes,Yes,Fail
+STU_1264,20,Male,Bachelor,20.8,86.4,41.9,10,Yes,Yes,Pass
+STU_1265,19,Male,Master,28.3,100.0,82.1,6,No,Yes,Pass
+STU_1266,21,Male,High School,11.7,79.3,58.4,6,Yes,Yes,Fail
+STU_1267,25,Female,Bachelor,6.8,77.8,79.1,8,Yes,Yes,Pass
+STU_1268,24,Other,Master,14.5,81.8,40.4,9,Yes,No,Fail
+STU_1269,20,Male,High School,30.5,78.4,80.5,9,Yes,Yes,Pass
+STU_1270,23,Female,Bachelor,10.2,91.6,51.0,4,Yes,Yes,Fail
+STU_1271,25,Male,Associate Degree,24.8,62.6,78.2,5,Yes,Yes,Pass
+STU_1272,25,Other,Master,25.1,69.4,68.2,6,Yes,Yes,Pass
+STU_1273,25,Female,Doctorate,11.7,69.2,54.6,5,Yes,Yes,Fail
+STU_1274,18,Female,Master,18.4,93.4,62.3,9,No,Yes,Pass
+STU_1275,21,Male,Associate Degree,24.8,100.0,77.6,9,No,Yes,Pass
+STU_1276,18,Male,Master,12.7,80.7,69.5,7,No,Yes,Pass
+STU_1277,23,Male,Master,13.8,80.0,76.2,10,Yes,Yes,Pass
+STU_1278,18,Male,Associate Degree,11.5,82.8,95.7,4,Yes,Yes,Pass
+STU_1279,19,Female,Master,8.9,95.9,46.1,7,No,Yes,Fail
+STU_1280,21,Female,High School,11.1,70.9,90.6,10,No,Yes,Pass
+STU_1281,21,Other,Bachelor,7.7,84.9,69.5,7,Yes,Yes,Fail
+STU_1282,23,Other,High School,15.2,93.7,55.4,7,Yes,Yes,Pass
+STU_1283,24,Female,High School,10.4,88.0,49.4,4,No,Yes,Fail
+STU_1284,19,Female,High School,16.4,84.3,65.4,4,Yes,Yes,Fail
+STU_1285,20,Female,Bachelor,5.7,94.0,80.9,8,Yes,Yes,Pass
+STU_1286,18,Female,Associate Degree,17.0,49.6,66.2,5,No,No,Fail
+STU_1287,22,Male,Bachelor,20.0,90.1,89.2,5,Yes,Yes,Pass
+STU_1288,18,Male,High School,3.0,74.2,47.7,8,Yes,Yes,Fail
+STU_1289,25,Male,Associate Degree,17.2,60.0,67.8,8,Yes,Yes,Pass
+STU_1290,18,Female,Associate Degree,22.4,88.1,,9,No,Yes,Pass
+STU_1291,20,Female,Bachelor,7.7,98.5,73.1,10,Yes,No,Pass
+STU_1292,18,Male,Associate Degree,25.0,80.4,80.4,7,Yes,Yes,Pass
+STU_1293,19,Female,Bachelor,17.5,93.4,62.1,8,Yes,Yes,Pass
+STU_1294,19,Female,Master,,100.0,31.5,6,No,Yes,Fail
+STU_1295,21,Male,Bachelor,14.7,97.8,70.8,5,Yes,Yes,Fail
+STU_1296,23,Male,High School,18.3,100.0,74.1,8,No,Yes,Pass
+STU_1297,24,Female,High School,15.5,90.9,73.7,6,Yes,Yes,Pass
+STU_1298,22,Female,Master,18.2,82.9,85.3,6,No,No,Pass
+STU_1299,25,Female,,9.5,62.8,53.0,6,No,Yes,Fail
+STU_1300,18,Female,Master,16.0,79.0,77.5,9,Yes,Yes,Pass
+STU_1301,18,Female,Associate Degree,6.5,71.9,84.7,9,Yes,No,Pass
+STU_1302,20,Female,Master,14.3,100.0,43.1,6,Yes,Yes,Pass
+STU_1303,23,Female,Bachelor,9.6,79.9,,10,Yes,No,Pass
+STU_1304,19,Female,Doctorate,10.6,83.5,60.9,9,No,No,Pass
+STU_1305,22,Male,Associate Degree,22.4,88.6,66.9,7,Yes,Yes,Fail
+STU_1306,21,Male,Bachelor,21.5,82.5,72.9,6,Yes,Yes,Pass
+STU_1307,19,Male,Associate Degree,18.7,100.0,61.2,7,Yes,Yes,Pass
+STU_1308,25,Female,Associate Degree,8.4,74.5,58.5,7,No,No,Pass
+STU_1309,23,Female,Bachelor,13.1,84.3,68.5,6,Yes,Yes,Pass
+STU_1310,25,Female,Master,22.3,73.1,52.8,5,Yes,Yes,Fail
+STU_1311,24,Male,Doctorate,15.9,66.2,52.8,10,Yes,No,Pass
+STU_1312,21,Male,Bachelor,28.9,74.7,77.5,6,No,No,Fail
+STU_1313,24,Male,Associate Degree,17.4,81.6,51.9,6,No,Yes,Fail
+STU_1314,20,Male,Associate Degree,16.2,76.8,77.3,9,Yes,Yes,Pass
+STU_1315,25,Female,Bachelor,13.1,73.7,74.5,6,Yes,No,Fail
+STU_1316,20,Male,High School,15.8,65.1,43.8,5,Yes,Yes,Fail
+STU_1317,18,Male,High School,,81.0,58.5,9,Yes,No,Fail
+STU_1318,24,Female,Associate Degree,19.2,63.9,84.7,4,No,Yes,Pass
+STU_1319,23,Male,Associate Degree,,91.1,54.3,4,No,Yes,Pass
+STU_1320,25,Female,Associate Degree,10.3,83.0,61.5,7,Yes,Yes,Fail
+STU_1321,22,Female,High School,,64.5,74.5,10,No,Yes,Pass
+STU_1322,21,Male,High School,4.0,78.3,79.0,7,Yes,Yes,Fail
+STU_1323,19,Female,High School,18.0,73.0,64.5,5,No,Yes,Pass
+STU_1324,23,Female,Doctorate,8.4,85.8,,8,No,Yes,Pass
+STU_1325,23,Female,Associate Degree,2.1,98.1,87.9,10,Yes,Yes,Pass
+STU_1326,20,Male,Associate Degree,17.3,59.5,92.3,4,No,Yes,Pass
+STU_1327,24,Female,Bachelor,30.0,83.4,81.7,7,Yes,Yes,Pass
+STU_1328,25,Female,High School,15.0,80.1,69.2,4,Yes,Yes,Pass
+STU_1329,25,Male,Master,20.0,90.1,56.7,5,Yes,Yes,Pass
+STU_1330,18,Male,Bachelor,15.5,84.6,56.4,5,Yes,Yes,Pass
+STU_1331,18,Other,High School,14.4,73.0,75.3,8,No,Yes,Fail
+STU_1332,21,Female,Associate Degree,20.5,78.2,73.9,8,No,Yes,Pass
+STU_1333,20,Male,Master,13.3,72.4,87.6,9,No,Yes,Pass
+STU_1334,23,Female,Master,16.6,94.9,77.1,10,No,No,Pass
+STU_1335,25,Male,Associate Degree,16.9,82.3,47.0,5,No,Yes,Fail
+STU_1336,22,Male,Bachelor,11.0,100.0,82.7,7,Yes,Yes,Pass
+STU_1337,20,Male,High School,21.0,81.3,,4,Yes,No,Fail
+STU_1338,21,Male,Doctorate,14.0,73.5,62.6,6,Yes,Yes,Pass
+STU_1339,21,Male,High School,10.5,63.8,71.5,8,No,Yes,Fail
+STU_1340,20,Male,Master,18.2,60.4,95.9,6,No,Yes,Pass
+STU_1341,21,Female,Bachelor,9.6,63.0,99.0,7,Yes,Yes,Pass
+STU_1342,20,Male,Bachelor,15.2,85.2,76.5,8,No,Yes,Pass
+STU_1343,19,Male,Associate Degree,14.9,88.1,65.4,6,No,Yes,Pass
+STU_1344,20,Female,High School,21.5,63.0,75.5,10,No,Yes,Pass
+STU_1345,24,Male,High School,17.8,92.7,80.4,7,Yes,Yes,Fail
+STU_1346,20,Female,High School,14.8,76.2,63.5,4,Yes,Yes,Fail
+STU_1347,21,Male,High School,19.9,83.8,93.1,10,Yes,Yes,Pass
+STU_1348,25,Male,Bachelor,23.3,100.0,71.2,7,Yes,Yes,Pass
+STU_1349,24,Male,Associate Degree,18.3,92.8,75.0,9,Yes,Yes,Pass
+STU_1350,21,Male,High School,15.1,78.8,77.3,8,No,Yes,Pass
+STU_1351,18,Male,Doctorate,7.1,71.3,73.9,5,Yes,Yes,Pass
+STU_1352,18,Male,Master,8.6,56.2,79.7,4,No,Yes,Pass
+STU_1353,25,Male,Master,13.2,73.4,59.4,10,Yes,Yes,Pass
+STU_1354,25,Male,Doctorate,11.3,79.5,60.2,10,No,Yes,Pass
+STU_1355,24,Male,High School,13.9,70.2,52.6,6,Yes,Yes,Fail
+STU_1356,19,Male,Associate Degree,15.3,80.4,74.2,8,No,Yes,Fail
+STU_1357,25,Male,Bachelor,18.2,82.9,78.9,5,No,Yes,Pass
+STU_1358,18,Female,Bachelor,14.6,79.3,74.4,7,Yes,Yes,Fail
+STU_1359,20,Female,High School,17.9,74.2,91.4,5,Yes,Yes,Pass
+STU_1360,21,Male,Master,15.4,84.0,67.9,8,No,Yes,Pass
+STU_1361,18,Female,High School,3.1,87.3,77.4,8,Yes,Yes,Fail
+STU_1362,18,Female,High School,9.4,68.9,52.7,9,Yes,Yes,Fail
+STU_1363,19,Male,Associate Degree,14.1,98.9,,9,Yes,Yes,Pass
+STU_1364,24,Female,Bachelor,7.7,80.8,77.7,5,Yes,Yes,Pass
+STU_1365,24,Female,Bachelor,18.6,82.2,79.9,7,No,Yes,Pass
+STU_1366,23,Male,High School,24.2,90.5,63.9,5,Yes,Yes,Fail
+STU_1367,19,Male,Master,22.3,84.8,67.0,8,No,Yes,Pass
+STU_1368,20,Female,Associate Degree,,93.4,46.7,8,No,Yes,Pass
+STU_1369,24,Female,High School,23.9,85.4,63.0,6,No,Yes,Fail
+STU_1370,21,Male,Master,15.9,74.7,80.5,9,No,Yes,Pass
+STU_1371,25,Male,Doctorate,13.0,86.3,76.1,6,No,Yes,Pass
+STU_1372,19,Male,Master,11.3,68.3,75.0,4,Yes,Yes,Pass
+STU_1373,25,Female,Master,13.2,83.3,68.7,8,No,Yes,Pass
+STU_1374,18,Female,Bachelor,12.7,81.6,68.1,6,No,Yes,Fail
+STU_1375,21,Male,Bachelor,16.0,79.5,,5,No,Yes,Fail
+STU_1376,21,Male,High School,,80.5,77.8,9,No,Yes,Pass
+STU_1377,18,Female,Associate Degree,15.0,59.4,73.9,9,Yes,Yes,Pass
+STU_1378,19,Male,Associate Degree,17.6,75.4,74.9,7,Yes,Yes,Pass
+STU_1379,18,Male,Associate Degree,22.1,83.1,,5,No,Yes,Fail
+STU_1380,25,Female,Bachelor,,83.9,37.9,7,Yes,Yes,Pass
+STU_1381,23,Female,Associate Degree,6.1,69.7,83.4,6,No,Yes,Pass
+STU_1382,21,Female,High School,2.0,97.2,61.3,10,Yes,Yes,Pass
+STU_1383,22,Female,High School,20.6,71.6,55.9,4,Yes,No,Fail
+STU_1384,22,Male,Bachelor,6.8,93.6,77.7,5,Yes,Yes,Pass
+STU_1385,25,Male,High School,13.7,87.1,62.5,5,Yes,Yes,Fail
+STU_1386,20,Female,Master,8.0,74.2,82.8,5,Yes,Yes,Pass
+STU_1387,24,Male,Associate Degree,4.2,100.0,76.6,7,Yes,Yes,Pass
+STU_1388,18,Male,Associate Degree,18.2,67.7,77.6,6,No,Yes,Pass
+STU_1389,18,Male,Bachelor,19.6,93.0,48.9,5,No,No,Fail
+STU_1390,20,Male,Master,11.5,94.0,85.0,10,Yes,Yes,Pass
+STU_1391,20,Male,Associate Degree,2.0,74.0,71.7,5,No,Yes,Fail
+STU_1392,25,Male,Bachelor,11.7,98.7,62.8,9,No,Yes,Pass
+STU_1393,25,Male,Bachelor,17.4,79.0,70.0,4,No,Yes,Fail
+STU_1394,20,Male,Associate Degree,6.1,85.5,43.1,9,Yes,Yes,Fail
+STU_1395,21,Female,Master,16.1,85.1,73.7,9,No,Yes,Pass
+STU_1396,25,Female,Bachelor,14.9,80.4,53.6,4,No,No,Fail
+STU_1397,23,Female,Bachelor,18.5,91.7,49.1,10,Yes,Yes,Fail
+STU_1398,25,Female,Master,15.7,91.5,46.7,6,Yes,No,Fail
+STU_1399,18,Female,Master,9.2,61.0,83.6,9,No,Yes,Pass
+STU_1400,25,Male,Bachelor,22.2,97.7,59.2,6,Yes,Yes,Pass
+STU_1401,21,Female,Master,14.0,62.1,89.5,9,No,Yes,Pass
+STU_1402,20,Female,Bachelor,,94.4,60.5,8,Yes,Yes,Pass
+STU_1403,18,Female,Bachelor,9.4,95.5,44.1,4,No,Yes,Fail
+STU_1404,25,Male,Bachelor,12.3,68.9,52.4,9,No,Yes,Pass
+STU_1405,21,Male,Bachelor,9.7,77.1,85.3,8,Yes,Yes,Pass
+STU_1406,23,Male,High School,14.0,68.7,65.8,7,Yes,Yes,Fail
+STU_1407,25,Male,Master,25.3,79.4,60.3,8,No,Yes,Pass
+STU_1408,21,Female,Master,6.8,78.3,70.2,5,No,Yes,Fail
+STU_1409,23,Female,High School,5.3,91.4,75.0,9,No,Yes,Pass
+STU_1410,20,Male,Master,23.8,97.7,83.6,8,Yes,Yes,Pass
+STU_1411,25,Other,High School,13.7,98.7,88.3,6,Yes,Yes,Pass
+STU_1412,23,Female,Associate Degree,11.0,75.3,63.0,7,Yes,Yes,Pass
+STU_1413,18,Male,Bachelor,21.2,79.5,49.4,10,No,Yes,Pass
+STU_1414,20,Male,High School,11.4,61.8,62.2,9,Yes,Yes,Fail
+STU_1415,18,Male,Master,26.0,72.3,71.6,5,Yes,No,Fail
+STU_1416,22,Male,Master,,93.6,54.5,10,No,Yes,Pass
+STU_1417,19,Male,Associate Degree,12.1,100.0,54.6,8,No,Yes,Pass
+STU_1418,25,Male,High School,27.9,67.2,72.8,10,Yes,Yes,Pass
+STU_1419,23,Male,Associate Degree,11.4,74.9,67.3,10,Yes,Yes,Pass
+STU_1420,19,Male,Bachelor,19.5,81.7,68.5,7,No,Yes,Fail
+STU_1421,19,Female,Doctorate,16.8,85.4,57.4,10,No,Yes,Pass
+STU_1422,23,Male,Bachelor,22.8,72.3,64.8,10,Yes,Yes,Pass
+STU_1423,20,Female,Associate Degree,24.4,87.1,55.1,9,No,Yes,Pass
+STU_1424,25,Male,Bachelor,15.2,76.3,80.5,7,No,No,Fail
+STU_1425,22,Other,Associate Degree,10.5,81.8,82.5,5,Yes,Yes,Pass
+STU_1426,18,Male,Bachelor,17.8,88.6,42.2,8,Yes,Yes,Pass
+STU_1427,21,Male,High School,10.9,82.1,55.0,7,Yes,Yes,Fail
+STU_1428,18,Other,Bachelor,27.1,76.8,47.0,7,No,Yes,Fail
+STU_1429,21,Female,Associate Degree,15.8,80.7,58.9,4,Yes,Yes,Fail
+STU_1430,18,Female,Doctorate,12.8,80.9,66.8,7,No,Yes,Pass
+STU_1431,23,Male,Associate Degree,16.1,77.6,47.7,4,No,Yes,Fail
+STU_1432,22,Male,Bachelor,6.9,78.9,55.1,8,Yes,Yes,Fail
+STU_1433,25,Female,Master,9.2,100.0,53.9,10,No,Yes,Pass
+STU_1434,21,Female,High School,22.2,88.7,,9,No,Yes,Pass
+STU_1435,25,Female,Master,11.1,78.5,69.0,9,Yes,Yes,Pass
+STU_1436,25,Female,Bachelor,8.7,90.4,57.9,8,Yes,Yes,Pass
+STU_1437,25,Male,High School,18.2,78.0,70.5,8,Yes,Yes,Pass
+STU_1438,24,Female,Associate Degree,22.1,96.1,60.3,6,No,Yes,Pass
+STU_1439,20,Male,Bachelor,19.3,86.4,64.2,10,No,Yes,Pass
+STU_1440,18,Male,High School,21.0,80.7,91.4,8,Yes,Yes,Fail
+STU_1441,25,Male,Bachelor,,87.4,86.8,7,No,Yes,Pass
+STU_1442,18,Female,Associate Degree,6.5,63.1,49.8,9,Yes,Yes,Fail
+STU_1443,25,Male,Bachelor,24.0,68.5,79.6,5,Yes,Yes,Fail
+STU_1444,21,Male,High School,13.1,67.7,79.4,9,Yes,Yes,Fail
+STU_1445,20,Female,Master,13.5,83.7,51.9,4,Yes,Yes,Fail
+STU_1446,20,Male,Doctorate,23.0,100.0,79.5,9,Yes,Yes,Pass
+STU_1447,23,Female,Doctorate,18.3,100.0,89.5,6,No,Yes,Pass
+STU_1448,24,Male,Bachelor,17.7,89.7,52.3,10,Yes,Yes,Pass
+STU_1449,23,Female,High School,,88.0,55.2,8,No,Yes,Pass
+STU_1450,23,Female,Bachelor,11.1,60.4,82.2,10,Yes,No,Pass
+STU_1451,23,Male,High School,20.6,75.5,71.8,8,Yes,No,Pass
+STU_1452,23,Male,High School,15.3,72.5,75.7,9,Yes,Yes,Fail
+STU_1453,23,Male,Associate Degree,16.6,74.5,72.8,5,No,Yes,Fail
+STU_1454,22,Male,Associate Degree,24.2,80.0,73.5,5,Yes,Yes,Pass
+STU_1455,20,Other,Bachelor,18.0,76.3,49.4,6,Yes,Yes,Pass
+STU_1456,23,Male,Bachelor,18.2,58.2,82.7,4,No,Yes,Fail
+STU_1457,25,Female,Associate Degree,21.4,91.0,84.4,9,Yes,Yes,Pass
+STU_1458,20,Male,Associate Degree,12.8,69.1,64.8,8,Yes,Yes,Fail
+STU_1459,20,Female,Doctorate,10.0,84.9,67.4,9,No,No,Pass
+STU_1460,19,Female,Associate Degree,8.7,100.0,46.6,6,Yes,Yes,Fail
+STU_1461,22,Female,Associate Degree,3.2,71.0,75.2,7,Yes,Yes,Fail
+STU_1462,23,Male,High School,27.3,51.6,76.0,7,Yes,Yes,Fail
+STU_1463,18,Male,Bachelor,8.4,78.6,67.1,6,Yes,No,Fail
+STU_1464,21,Male,Bachelor,13.7,95.2,83.7,8,Yes,Yes,Pass
+STU_1465,24,Female,High School,13.3,100.0,63.3,10,Yes,Yes,Pass
+STU_1466,25,Female,High School,16.8,67.2,75.9,6,Yes,No,Fail
+STU_1467,18,Other,Bachelor,,88.0,53.7,8,Yes,Yes,Pass
+STU_1468,22,Male,Bachelor,20.2,76.4,67.7,5,No,Yes,Pass
+STU_1469,21,Female,Associate Degree,11.5,80.7,,6,Yes,Yes,Pass
+STU_1470,22,Female,Doctorate,14.0,100.0,71.2,8,Yes,Yes,Pass
+STU_1471,25,Male,High School,16.7,64.0,62.8,6,No,Yes,Fail
+STU_1472,20,Male,Associate Degree,13.5,85.0,66.2,6,No,Yes,Pass
+STU_1473,21,Female,Master,24.6,87.6,79.6,10,Yes,No,Pass
+STU_1474,20,Female,Associate Degree,17.9,95.0,61.9,10,No,No,Pass
+STU_1475,25,Female,Bachelor,19.4,83.2,45.5,8,Yes,Yes,Pass
+STU_1476,18,Male,Associate Degree,19.0,85.7,,8,Yes,Yes,Pass
+STU_1477,25,Female,Associate Degree,22.0,77.3,87.3,4,No,Yes,Pass
+STU_1478,18,Male,Doctorate,16.1,85.2,49.9,6,Yes,Yes,Pass
+STU_1479,21,Male,Associate Degree,7.2,77.9,77.7,7,Yes,Yes,Fail
+STU_1480,21,Male,Master,17.4,89.5,61.0,6,Yes,Yes,Pass
+STU_1481,23,Female,High School,11.1,77.6,71.7,6,Yes,Yes,Fail
+STU_1482,22,Female,High School,11.8,86.5,72.1,8,Yes,Yes,Pass
+STU_1483,23,Female,High School,18.5,81.6,64.7,6,No,No,Fail
+STU_1484,22,Male,Bachelor,22.4,95.5,57.0,9,Yes,Yes,Pass
+STU_1485,23,Female,Associate Degree,15.1,81.4,58.3,6,No,Yes,Pass
+STU_1486,20,Male,Master,16.9,60.7,55.2,9,No,Yes,Pass
+STU_1487,21,Female,Associate Degree,25.2,97.1,56.4,10,No,Yes,Pass
+STU_1488,18,Male,Doctorate,16.4,71.1,67.1,7,No,Yes,Pass
+STU_1489,22,Male,High School,30.6,74.2,58.0,8,No,Yes,Pass
+STU_1490,25,Male,Master,18.4,74.9,77.5,6,Yes,Yes,Pass
+STU_1491,22,Male,Bachelor,4.4,98.5,88.8,9,Yes,Yes,Pass
+STU_1492,18,Female,Bachelor,19.5,56.4,59.9,9,Yes,Yes,Pass
+STU_1493,23,Female,Master,17.3,100.0,71.4,10,No,Yes,Pass
+STU_1494,22,Male,Bachelor,22.7,94.7,75.0,9,No,Yes,Pass
+STU_1495,24,Female,Bachelor,19.0,84.7,74.6,5,Yes,No,Fail
+STU_1496,20,Male,High School,14.2,81.3,69.1,4,Yes,Yes,Fail
+STU_1497,21,Female,High School,7.7,85.4,78.4,7,Yes,No,Fail
+STU_1498,18,Female,Master,13.7,88.3,74.8,10,No,Yes,Pass
+STU_1499,21,Female,Bachelor,9.9,89.7,50.7,10,Yes,No,Pass
+STU_1010,20,Female,High School,12.3,72.6,67.7,9,Yes,Yes,Pass
+STU_1045,21,Female,Master,11.8,99.7,81.1,4,Yes,Yes,Pass

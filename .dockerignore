@@ -1,0 +1,22 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache
+.venv
+venv
+ENV
+
+# Node
+node_modules
+dist
+.npm
+
+# Database and test artifacts
+*.db
+*.log
